@@ -9,7 +9,7 @@ A machine learning pipeline that predicts the **severity of adverse drug events*
 | Resource | Link |
 |----------|------|
 | 🤗 Live Demo (HuggingFace Space) | [ADVERSE_EFFECT](https://huggingface.co/spaces/iamn0tken/ADVERSE_EFFECT) |
-| 📁 Dataset & Model Files (Google Drive) | `[PASTE YOUR GOOGLE DRIVE LINK HERE]` |
+| 📁 Dataset & Model Files (Google Drive) | [Dataset](https://drive.google.com/drive/folders/1tzLsRe1cQHyuspuXdnd-TGB0oTxJR6gG?usp=sharing) |
 
 ---
 
@@ -123,7 +123,7 @@ Then open `http://localhost:7860` in your browser.
 
 ## 📊 Results
 
-> _(Paste your CV macro-F1 score, classification report, or confusion matrix here)_
+> _(CV macro-F1: 0.5524 ± 0.0008)_
 
 ---
 
@@ -136,7 +136,6 @@ Then open `http://localhost:7860` in your browser.
 ## 👤 Author
 
 **KenezNonwar**
-- GitHub: [@KenezNonwar](https://github.com/KenezNonwar)
 - HuggingFace: [@iamn0tken](https://huggingface.co/iamn0tken)
 
 ---
