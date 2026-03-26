@@ -9,7 +9,7 @@ A machine learning system that predicts the **severity of adverse drug events** 
 | Resource | Link |
 |----------|------|
 | 🤗 HuggingFace Space (Live App) | [ADVERSE_EFFECT on HuggingFace](https://huggingface.co/spaces/iamn0tken/ADVERSE_EFFECT) |
-| 📁 Dataset / Model Files (Drive) | `[PASTE YOUR GOOGLE DRIVE LINK HERE]` |
+| 📁 Dataset / Model Files (Drive) | (https://drive.google.com/drive/folders/1tzLsRe1cQHyuspuXdnd-TGB0oTxJR6gG?usp=sharing) |
 
 ---
 
@@ -83,7 +83,6 @@ pip install gradio pandas numpy joblib xgboost
 python app.py
 ```
 
-Then open `http://localhost:7860` in your browser.
 
 ---
 
